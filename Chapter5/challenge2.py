@@ -1,0 +1,1 @@
+places = ("Georgia", "Oregon", "Washington")
